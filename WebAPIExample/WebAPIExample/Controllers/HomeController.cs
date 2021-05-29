@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using WebAPIExample.Business;
+using WebAPIExample.Models;
 
 namespace WebAPIExample.Controllers
 {
@@ -32,6 +33,12 @@ namespace WebAPIExample.Controllers
             }
 
             return Ok(employee);
+        }
+
+        [HttpPost]
+        public IActionResult AddEmployee(Employee employee)
+        {
+            return CreatedAtAction(nameof(GetEmployeeById), new { id = 3 }, null);
         }
 
 

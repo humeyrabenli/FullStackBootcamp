@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\humeyra\\source\\repos\\Kodluyoruz\\BootCamp104\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {}
+    "C:\\Users\\humeyra\\Documents\\GitHub\\FullStackBootcamp\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\humeyra\\source\\repos\\Kodluyoruz\\BootCamp104\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {
+    "C:\\Users\\humeyra\\Documents\\GitHub\\FullStackBootcamp\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\humeyra\\source\\repos\\Kodluyoruz\\BootCamp104\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+        "projectUniqueName": "C:\\Users\\humeyra\\Documents\\GitHub\\FullStackBootcamp\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
         "projectName": "WebAPIExample",
-        "projectPath": "C:\\Users\\humeyra\\source\\repos\\Kodluyoruz\\BootCamp104\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+        "projectPath": "C:\\Users\\humeyra\\Documents\\GitHub\\FullStackBootcamp\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
         "packagesPath": "C:\\Users\\humeyra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\humeyra\\source\\repos\\Kodluyoruz\\BootCamp104\\WebAPIExample\\WebAPIExample\\obj\\",
+        "outputPath": "C:\\Users\\humeyra\\Documents\\GitHub\\FullStackBootcamp\\WebAPIExample\\WebAPIExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\humeyra\\AppData\\Roaming\\NuGet\\NuGet.Config",
