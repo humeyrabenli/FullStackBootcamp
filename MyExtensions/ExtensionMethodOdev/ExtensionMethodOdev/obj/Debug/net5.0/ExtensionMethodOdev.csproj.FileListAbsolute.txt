@@ -1,0 +1,16 @@
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.exe
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.deps.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.runtimeconfig.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.runtimeconfig.dev.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ref\ExtensionMethodOdev.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\bin\Debug\net5.0\ExtensionMethodOdev.pdb
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.csprojAssemblyReference.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.AssemblyInfoInputs.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.AssemblyInfo.cs
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ref\ExtensionMethodOdev.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.pdb
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\ExtensionMethodOdev\ExtensionMethodOdev\obj\Debug\net5.0\ExtensionMethodOdev.genruntimeconfig.cache
