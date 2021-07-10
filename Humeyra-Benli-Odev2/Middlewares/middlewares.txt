@@ -1,0 +1,6 @@
+Middlewares:
+1-Sınavların yapıldığı sistemde her soruya, sınava giren öğrencinin öğrenci numarasını yazan middleware.
+
+2-Bir siteye giriş yapmadan önce her kullanıcıya bir anket ekranı gösterilmesi.
+
+3-Uygulamaya gelen tüm requestlerin saat bilgisinin database'e eklenmesi.
